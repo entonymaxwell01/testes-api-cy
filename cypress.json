@@ -5,7 +5,7 @@
         "reportDir": "mochawesome-report",
         "overwrite": false,
         "reportFilename": "index.html",
-        "html": false,
+        "html": true,
         "json": false
     }
 }
